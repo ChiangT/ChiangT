@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages and Tools 💻</h3>
 <p align="left"> 
+<a href="https://www.shell.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="shell" width="40" height="40"/> </a> 
 <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="60" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/> </a> 
 <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a> 
