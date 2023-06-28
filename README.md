@@ -8,7 +8,7 @@
 <!-- trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mitsui921&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-
+### Brief Intro 🌝
 - 🔭 B.E. & M.S. Cyber Science and Engineering @ Southeast University, Nanjing, China.
 - 👨‍💻 Striving for graduation and autumn recruitment.
 - 📫 How to reach me: jtaoseu17@163.com
@@ -22,7 +22,7 @@
 - Reference: https://github.com/devicons/devicon
 -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 💻</h3>
 <p align="left"> 
 <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="60" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="60" height="40"/> </a> 
