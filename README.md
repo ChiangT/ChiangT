@@ -13,7 +13,6 @@
 ### Brief Intro 🌝
 - 🔭 B.E. & M.S. Cyber Science and Engineering @ Southeast University, Nanjing, China.
 - 👨‍💻 Striving for graduation and campus recruitment.
-- ⭐️ Hobbies: <img src="https://upload.wikimedia.org/wikipedia/sco/0/01/Golden_State_Warriors_logo.svg" alt="GS" width="20" height="20"/>
 - 📫 How to reach me: jtaoseu17@163.com
 
 <!--
