@@ -3,7 +3,7 @@
 <div style="display: flex; gap: 10px;">
   <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Mitsui921&theme=nightowl&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true">
-<!--   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsui921&layout=donut&theme=nightowl"> -->
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsui921&layout=donut&theme=nightowl">
   </p>
 </div>
 
