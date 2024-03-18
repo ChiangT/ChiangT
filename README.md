@@ -12,7 +12,7 @@
 
 ### Brief Intro 🌝
 - 🔭 B.E. & M.S. Cyber Science and Engineering @ Southeast University, Nanjing, China.
-- 👨‍💻 Striving for graduation and campus recruitment.
+- 👨‍💻 Man! What can I say！
 - 📫 How to reach me: jtaoseu17@163.com
 
 <!--
